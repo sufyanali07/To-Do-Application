@@ -1,0 +1,109 @@
+/* ============================TODO-STYLE-START================================ */
+
+.custom{
+    height: 50px;
+    width: 100vw;
+    background: linear-gradient(purple,lightpink,lightblue,orange,yellow);
+}
+.main{
+ background-image: url('./images/background.jpg');
+ background-position: center;
+background-size: cover;
+
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+
+.customhead{
+
+
+color: rgb(0, 0, 0);
+
+}
+
+
+.lunder{
+    list-style-type:decimal;
+    text-decoration: underline solid rgb(104, 88, 88);
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    margin-right: 5px;
+  
+}
+.edbtn{
+    background-color: rgb(139, 3, 93);
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 3px;
+    margin: 8px;
+    color: white;
+    border: none;
+    width: 50px;
+    text-decoration: none;
+}
+.edbtn:hover{
+    border: 2px solid rgb(0, 0, 0);
+}
+.delbtn{
+    background-color: rgb(0, 163, 223);
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 3px;
+    margin: 8px;
+    color: white;
+    border: none;
+    width: 60px;
+    text-decoration: none;
+}
+.delbtn:hover{
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.tasks{
+background-color: rgba(53, 187, 232, 0.477);
+
+}
+
+.btn1{
+    background-color: crimson;
+    color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+.btn1:hover{
+    background: none;
+    color: white;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+.btn2{
+    background-color: rgb(172, 0, 211);
+    color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+.btn2:hover{
+    background: none;
+    color: white;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+.inpt{
+    border: 5px double orange;
+    background-color: rgb(255, 255, 164);
+    border-radius: 10px;
+}
+
+.custompara{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+ color: white;
+}
+
+
+/* ============================TODO-STYLE-END================================ */
